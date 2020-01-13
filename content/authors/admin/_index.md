@@ -32,10 +32,10 @@ education:
   courses:
   - course: MSc Methodology and Statistics
     institution: Utrecht University
-    year: 2012
+    year: 2020
   - course: BA Liberal Arts and Sciences (Major in Cognition)
     institution: Amsterdam University College
-    year: 2009
+    year: 2018
   - course: International Baccalaureate
     institution: Sri KDU International School
     year: 2015
