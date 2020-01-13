@@ -24,12 +24,12 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "92%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "file-pdf"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "LaTeX"
+  description = "88%"
 
 +++
