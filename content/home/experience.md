@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Utrecht"
   date_start = "2020-01-01"
   date_end = ""
-  description = """Reseaching solutions to bias in machine learning models."""
+  description = """Researching solutions to bias in machine learning models."""
 
 [[experience]]
   title = "Intern"
