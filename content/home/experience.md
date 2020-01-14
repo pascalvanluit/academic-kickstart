@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Amsterdam"
   date_start = "2019-09-01"
   date_end = "2019-11-30"
-  description = """Developed an RShiny app about the Bayesian learning cycle. Find it here: https://bayesianlearningcycle.shinyapps.io/shiny-app-bayesian-learning-cycle/"""
+  description = """Developed an RShiny app about the Bayesian learning cycle. Find it here: https://bayesianlearningcycle.shinyapps.io/shiny-app-bayesian-learning-cycle/ """
 
 [[experience]]
   title = "Teaching Assistant"
