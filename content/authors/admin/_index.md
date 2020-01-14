@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Pascal is a student of Methodology & Statistics at Utrecht University who likes to dabble.
+Pascal is a research master student of Methodology & Statistics at Utrecht University. He is writing his thesis about improving generalizability of structural equation models through cross-validated model modifications.
