@@ -74,3 +74,7 @@ user_groups:
 ---
 
 Pascal is a research master student of Methodology & Statistics at Utrecht University. He is writing his thesis about improving generalizability of structural equation models through cross-validated model modifications.
+
+{{% alert note %}}
+This website is currently under construction :wrench: 
+{{% /alert %}}
