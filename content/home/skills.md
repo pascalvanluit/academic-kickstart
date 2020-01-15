@@ -18,18 +18,18 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Proficient"
   
 [[feature]]
   icon = "search"
   icon_pack = "fas"
   name = "Research"
-  description = "90%"
+  description = "Academic"
   
 [[feature]]
   icon = "file-pdf"
   icon_pack = "fas"
   name = "Markup"
-  description = "88%"
+  description = "i.e. LaTeX & R Markdown"
 
 +++
